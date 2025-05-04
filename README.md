@@ -2,10 +2,7 @@ This excel project is just a basic example to demonstrateth how excel-based appl
 
 ## Features
 - Add products and generate unique serial for them or delete them.
-- x
-
-## About page in app
-there is a about page in the app that explain what is app and how to use it. you can install now and check it
+- Sell products and and manage product sales
 
 ## Some images of application environment
 | Home Page | Menu | Notes | Programs Page | Filters |
