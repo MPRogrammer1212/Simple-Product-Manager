@@ -5,9 +5,9 @@ This excel project is just a basic example to demonstrateth how excel-based appl
 - Sell products and and manage product sales
 
 ## Some images of application environment
-| Products Page | Menu | Notes | Programs Page | Filters |
+| Products Page | Add UserForm | Sell UserForm | Delete UserForm | Sell History |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="Images/1.png" width="200"/> | <img src="Doplan/wwwroot/images/1-2.jpg" width="200"/> | <img src="Doplan/wwwroot/images/2.jpg" width="200"/> | <img src="Doplan/wwwroot/images/6.jpg" width="200"/> | <img src="Doplan/wwwroot/images/7.jpg" width="200"/> |
+| <img src="Images/1.png" width="200"/> | <img src="Images/2.png" width="200"/> | <img src="Images/3.png" width="200"/> | <img src="Images/4.png" width="200"/> | <img src="Images/5.png" width="200"/> |
 
 
 ## ⬇️Try it on android
